@@ -5,11 +5,13 @@ import Header from "../../components/global-components/Header/Header";
 import Footer from "../../components/global-components/Footer/Footer";
 
 function Homepage() {
-    return <>
-        <Header />
-        <HeroSection />
-        <Footer />
-    </>
+    return (
+        <>
+            <Header />
+            <HeroSection />
+            <Footer />
+        </>
+    )
 }
 
 export default Homepage;

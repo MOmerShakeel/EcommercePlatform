@@ -1,0 +1,15 @@
+.hero-main-section {
+    min-height: 30vw;
+    max-height: 30vw;
+    background-color: grey;
+}
+
+.hero-sub-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.hero-text-section {
+    color: rgb(0, 0, 0);
+}
