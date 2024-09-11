@@ -1,7 +1,8 @@
 .hero-main-section {
-    min-height: 30vw;
-    max-height: 30vw;
-    background-color: grey;
+    min-height: 40vw;
+    max-height: 40vw;
+    background: url(../../../assets/hero-bg.jpg);
+    background-position: bottom;
 }
 
 .hero-sub-section {
