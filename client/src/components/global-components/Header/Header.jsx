@@ -15,13 +15,13 @@ function Header() {
                                 Home
                             </ul>
                             <ul>
-                                Home
+                                Shop
                             </ul>
                             <ul>
-                                Home
+                                About
                             </ul>
                             <ul>
-                                Home
+                                Contact
                             </ul>
                         </li>
                     </nav>
