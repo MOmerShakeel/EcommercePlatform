@@ -3,6 +3,8 @@
     max-height: 40vw;
     background: url(../../../assets/hero-bg.jpg);
     background-position: bottom;
+    margin: 30px 50px;
+    border-radius: 10px;
 }
 
 .hero-sub-section {

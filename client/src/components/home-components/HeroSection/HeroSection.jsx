@@ -5,7 +5,7 @@ function HeroSection() {
         <div className="hero-main-section">
             <div className="hero-sub-section">
                 <div className="hero-text-section">
-                    <h1>This is the main heading.</h1>
+                    <h1>Welcome to Urban Edge</h1>
                 </div>
                 <div className="hero-preview-section">
                     {/* <img src="assets/preview.webp" /> */}
