@@ -1,0 +1,33 @@
+.topbar-main-div{
+    min-height: 2vw;
+    background-color: #793aff;
+}
+
+.topbar-primary{
+    overflow: hidden;
+    /* position: absolute; */
+    display: flex;
+    justify-content: space-around;
+    animation:scroll-horizontal 20s linear infinite;
+    /* animation-delay: 3s; */
+}
+
+@keyframes scroll-horizontal {
+    0%{
+        left: 100%;
+    }
+
+    100%{
+        left: -100%;
+    }
+}
+
+.topbar-tagline{
+ font-size: 16px;
+ color: white;
+ text-transform: uppercase;
+}
+
+.topbar-icon>img{
+    width:20px;
+}
