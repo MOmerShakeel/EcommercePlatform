@@ -5,11 +5,11 @@
 
 .topbar-primary{
     overflow: hidden;
-    /* position: absolute; */
+    position: absolute;
     display: flex;
     justify-content: space-around;
     animation:scroll-horizontal 20s linear infinite;
-    /* animation-delay: 3s; */
+    animation-delay: 3s;
 }
 
 @keyframes scroll-horizontal {
