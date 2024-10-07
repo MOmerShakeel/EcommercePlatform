@@ -5,6 +5,7 @@ import TextAnimation from "../../components/home-components/TextAnimation/TextAn
 import Header from "../../components/global-components/Header/Header";
 import Footer from "../../components/global-components/Footer/Footer";
 import TopBar from "../../components/global-components/TopBar/TopBar";
+import ProductList from "../../components/home-components/ProductList/ProductList";
 
 function Homepage() {
     return (
@@ -13,6 +14,7 @@ function Homepage() {
             <Header />
             <HeroSection />
             <TextAnimation />
+            <ProductList />
             <Footer />
         </>
     )
