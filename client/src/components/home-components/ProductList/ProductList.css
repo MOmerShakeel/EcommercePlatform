@@ -1,11 +1,21 @@
-.productlist-main{
-
+.productlist-main {
+    display: flex;
+    flex-direction: column;
 }
 
-.productlist-featured-section{
-
+.productlist-featured-section {
+    width: 100%;
+    margin: 20px 5px;
+    padding: 10px 40px;
+    background-color: purple;
 }
 
-.productlist-viewmore-button{
-    
+.productlist-featured-section>ul {}
+
+.productlist-featured-section>ul>li {
+    color: white;
+}
+
+.productlist-viewmore-button {
+    padding: 20px;
 }
