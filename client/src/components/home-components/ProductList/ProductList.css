@@ -10,7 +10,9 @@
     background-color: purple;
 }
 
-.productlist-featured-section>ul {}
+.productlist-featured-section>ul {
+    list-style-type: none;
+}
 
 .productlist-featured-section>ul>li {
     color: white;

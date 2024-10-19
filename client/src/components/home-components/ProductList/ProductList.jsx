@@ -7,18 +7,18 @@ function ProductList(){
         <div className="productlist-featured-section">
             <ul>
                 <li>
-                    Omer
+                    Product 1
                 </li>
                 <li>
-                    Omer
+                    Product 2
                 </li>
                 <li>
-                    Omer
+                    Product 3
                 </li>
             </ul>
         </div>
         <div className="productlist-viewmore-button">
-            <button>View All</button>
+            <button>View More</button>
         </div>
     </div>
     </>
