@@ -18,17 +18,18 @@ function Header() {
                     <div className="header-menu-div">
                         <nav>
                             <li>
-                                <ul>
+                                <ul><a href="#">
                                     Home
+                                </a>
                                 </ul>
-                                <ul>
-                                    Shop
+                                <ul><a href="#">
+                                    Shop</a>
                                 </ul>
-                                <ul>
-                                    About
+                                <ul><a href="#">
+                                    About</a>
                                 </ul>
-                                <ul>
-                                    Contact
+                                <ul><a href="#">
+                                    Contact</a>
                                 </ul>
                             </li>
                         </nav>

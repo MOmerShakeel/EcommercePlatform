@@ -46,9 +46,13 @@
 
 .header-menu-div nav>li {
     display: flex;
+}
+
+.header-menu-div nav>li a{
     color: white;
     text-transform: uppercase;
     font-size: 18px;
+    text-decoration: none;
 }
 
 .header-cart-icon {
