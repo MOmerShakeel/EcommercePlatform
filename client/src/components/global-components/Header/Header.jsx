@@ -23,7 +23,7 @@ function Header() {
                                 </a>
                                 </ul>
                                 <ul><a href="#">
-                                    Shop</a>
+                                    Store</a>
                                 </ul>
                                 <ul><a href="#">
                                     About</a>
