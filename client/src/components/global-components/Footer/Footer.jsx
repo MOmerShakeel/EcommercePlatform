@@ -3,7 +3,8 @@ import logo from "../../../assets/logo.png"
 function Footer() {
     return <>
     <div>
-        <div>{logo}</div>
+        <div><img src={logo}/></div>
+        <div></div>
     </div>
     </>
 }
